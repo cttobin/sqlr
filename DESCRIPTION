@@ -1,0 +1,30 @@
+Package: sqlr
+Title: Build SQL queries
+Description: 
+Version: 0.1
+Author: Ciaran Tobin <cttobin@hotmail.com>
+Maintainer: Ciaran Tobin <cttobin@hotmail.com>
+Depends:
+    R (>= 3.0.1)
+License: GPL-2
+LazyData: true
+Collate:
+    'addClassName.R'
+    'addStatement.R'
+    'build.R'
+    'buildStatement.R'
+    'createQuery.R'
+    'deleteFrom.R'
+    'execute.R'
+    'from.R'
+    'groupBy.R'
+    'leftJoin.R'
+    'limit.R'
+    'orderBy.R'
+    'print.R'
+    'select.R'
+    'set.R'
+    'sqlr-package.r'
+    'supplyMethods.R'
+    'update.R'
+    'where.R'

@@ -1,0 +1,3 @@
+S3method(set,character)
+S3method(set,data.frame)
+export(set)
